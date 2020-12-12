@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![blazarc's github stats](https://github-readme-stats.vercel.app/api?username=blazarc&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazarc&layout=compact&theme=cobalt&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazarc&layout=compact&theme=cobalt&langs_count=10&exclude_repo=bigdata)
